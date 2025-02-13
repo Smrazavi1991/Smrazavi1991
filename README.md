@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sayyed Mohammad Razavi.
 - 👀 I’m interested in solve programming problems and collaborate about it.
-- 🌱 I’m currently learning python-Django and always will be...
+- 🌱 I’m learning python-Django and always will be...
 - 📫 How to reach me? Email: smrazavi1991@hotmail.com
 
 <!---
